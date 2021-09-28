@@ -10,4 +10,16 @@ For the source code of the Typhoon Intensity prediction. Please kindly refer to 
 
 ---
 
-This repository is the display website for both Typhoon Path and Intensity prediction.
+This repository is the display website system for both Typhoon Path and Intensity prediction.
+
+To run this website system. Please kindle follow these steps:
+* Step 1. Install the requirement environment 
+```
+conda env create -f Typhoon_Master.yaml
+```  
+* Step 2. Run the main python file named **app.py**
+```
+python app.py
+```  
+* Finally, you can see the main window of this website as follows:
+![image](https://github.com/xuguangning1218/Typhoon_Master/blob/master/figure/main_window.png)
