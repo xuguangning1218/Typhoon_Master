@@ -21,5 +21,9 @@ conda env create -f Typhoon_Master.yaml
 ```
 python app.py
 ```  
+* Step 3. Enter 'your ip addree:8080' in a web browser
+```
+For example: 127.0.0.1:8080
+```  
 * Finally, you can see the main window of this website as follows:
 ![image](https://github.com/xuguangning1218/Typhoon_Master/blob/master/figure/main_window.png)
